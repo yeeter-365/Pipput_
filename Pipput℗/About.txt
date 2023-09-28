@@ -1,0 +1,21 @@
+// Created by HANEEF RAHMAN, XI-K                                                              // 28-SEP-2023
+
+<◻> PIPPUT℗ python module ["Perfect Input"]
+
+
+
+PIPPUT℗ is a python module created by HANEEF RAHMAN for the puropuse of simplifying the process of data input
+from the user. Pipput.py functions in this manner: Input the function of "Criteria" from the creator > 
+Input a "Message" from the creator > Create a while True loop (breakable) > Input a variable "var" from the user
+> Display the "Message" to the user > Check if variable "var" fullfills the "Criteria". If yes, then break >
+else, display an "invalid input" message to user and run again.
+
+
+
+<NOTE> Python module for perfect input. <ADV> DOES NOT RAISE ERROR TO USER.**
+
+※ **Depends on "Criteria" function inputed by user.
+
+
+
+© 2023. By HANEEF RAHMAN, XI-K                                               // Special credits: Abdur Rahman
